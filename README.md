@@ -1,1 +1,10 @@
 # python_da_source
+
+삼양미디어 처음 시작하는 파이썬 데이터분석 책 소스
+
+1. 소스코드 파일: python_da_ml.ipynb
+- https://colab.research.google.com/drive/12qzhlSlcVBHAsbq3Lsv25U9QYI7vypbz?usp=sharing
+
+
+2. 소스코드 포함 전체 실습파일: source.zip
+- 파일 목록ㅇ
