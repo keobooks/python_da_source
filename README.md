@@ -7,4 +7,5 @@
 
 
 2. 소스코드 포함 전체 실습파일: source.zip
-- 파일 목록ㅇ
+- https://github.com/keobooks/python_da_source/blob/main/source.zip
+- [Download Raw file]아이콘 버튼 클릭
