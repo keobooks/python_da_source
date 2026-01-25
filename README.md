@@ -23,3 +23,7 @@ C. 실습에 필요한 추가데이터 다운로드
 D. 각장 요약 파일: 
 1. Google NotebookLM을 사용한 각 장 요약 동영상파일
 - 다운로드 링크: https://drive.google.com/file/d/1IH-0WYBR0trKbhF3nExZXi8rzo9Cpitw/view?usp=drive_link
+
+2. Google NotebookLM을 사용한 각 장 요약 슬라이드 pdf 파일
+- 다운로드 링크: https://drive.google.com/file/d/1Aj6e85qmS1bdoL1S6PkQwnJyRIY3HIZC/view?usp=drive_link
+- 
