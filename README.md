@@ -26,3 +26,14 @@ D. 각장 요약 파일:
 
 2. Google NotebookLM을 사용한 각 장 요약 슬라이드pdf파일
 - 다운로드 링크: https://drive.google.com/file/d/1Aj6e85qmS1bdoL1S6PkQwnJyRIY3HIZC/view?usp=drive_link
+
+# E. 책소스 변경사항 및 주의사항
+1. 2026.4.19
+   - 7장 2절 folium라이브러리 사용 지도 시각화에서 "403 Forbidden error in folium.Map" 발생시 대처방법
+   - 발생이유: User-Agent/Referer변경 또는 트래픽초과로 인한 block 등의 사유 
+   - 대처방법:
+   - 방법1: tiles를 'CartoDB positron'로 사용: 예) folium.Map(tiles='CartoDB positron')
+   - 방법2: zoom 레벨을 18미만으로 사용
+
+
+
