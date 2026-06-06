@@ -29,6 +29,12 @@
 2. Google NotebookLM을 사용한 각 장 요약 슬라이드pdf파일
 - 다운로드 링크: https://drive.google.com/file/d/1Aj6e85qmS1bdoL1S6PkQwnJyRIY3HIZC/view?usp=drive_link
 
+# ------
+3. Google NotebookLM을 사용한 요약 파일
+- 처음시작하는_파이썬데이터분석_브리핑문서.pdf 다운로드 링크: 
+- 데이터_분석_입문_가이드_인포그래픽.png 다운로드 링크:
+- 머신러닝_핵심_개념_가이드_인포그래픽.png 다운로드 링크:
+
 
 # D. 책소스 변경사항 및 주의사항
 1. 2026.4.19
